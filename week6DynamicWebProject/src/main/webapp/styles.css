@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+	 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	 align-items: center;
+}
+
+form{
+	border: solid black 0.1em;
+	border-radius: 2em; 
+	padding: 2em;
+}
